@@ -1,10 +1,10 @@
-Cmp-Mod V01 Created by Cvpcb (2014-12-04 BZR 5312)-product   date = 2/26/2015 2:44:34 PM
+Cmp-Mod V01 Created by Cvpcb (2014-12-04 BZR 5312)-product   date = 2/26/2015 6:10:23 PM
 
 BeginCmp
 TimeStamp = /54DA1745;
 Reference = BT1;
 ValeurCmp = BATTERY;
-IdModule  = ;
+IdModule  = Battery_Holder:BAT-HLD-001-ND;
 EndCmp
 
 BeginCmp
@@ -67,14 +67,14 @@ BeginCmp
 TimeStamp = /54DA20DA;
 Reference = F1;
 ValeurCmp = 500mA;
-IdModule  = ;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D95647;
 Reference = IC1;
 ValeurCmp = ATTINY85-S;
-IdModule  = ;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
 EndCmp
 
 BeginCmp
@@ -95,7 +95,7 @@ BeginCmp
 TimeStamp = /54DA177A;
 Reference = PS1;
 ValeurCmp = USBPOWER;
-IdModule  = ;
+IdModule  = USB_connector:USB_A;
 EndCmp
 
 BeginCmp
@@ -179,14 +179,14 @@ BeginCmp
 TimeStamp = /54D9D60E;
 Reference = T1;
 ValeurCmp = LM335;
-IdModule  = ;
+IdModule  = Housings_TO-92:TO-92-Free-molded-wide;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D95859;
 Reference = U1;
 ValeurCmp = LM358;
-IdModule  = ;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
 EndCmp
 
 EndListe
