@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Wifi_Modules)(type KiCad)(uri "C:\\Users\\Admin\\Google Drive\\SCHOOL FILES\\super-senior\\Senior Design Project\\TCU\\TCU_HARDWARE\\wireless_modules.pretty")(options "")(descr ""))
+  (lib (name Battery_Holder)(type KiCad)(uri ${KIPRJMOD}\bat_holder.pretty)(options "")(descr ""))
+)
