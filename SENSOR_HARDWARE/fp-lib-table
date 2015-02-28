@@ -2,4 +2,5 @@
   (lib (name Wifi_Modules)(type KiCad)(uri "C:\\Users\\Admin\\Google Drive\\SCHOOL FILES\\super-senior\\Senior Design Project\\TCU\\TCU_HARDWARE\\wireless_modules.pretty")(options "")(descr ""))
   (lib (name Battery_Holder)(type KiCad)(uri ${KIPRJMOD}\bat_holder.pretty)(options "")(descr ""))
   (lib (name USB_connector)(type KiCad)(uri ${KIPRJMOD}\usb_connector.pretty)(options "")(descr ""))
+  (lib (name smd_diode)(type KiCad)(uri ${KIPRJMOD}\smd_diode.pretty)(options "")(descr ""))
 )

@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-12-04 BZR 5312)-product   date = 2/26/2015 6:10:23 PM
+Cmp-Mod V01 Created by Cvpcb (2014-12-04 BZR 5312)-product   date = 2/27/2015 7:13:33 PM
 
 BeginCmp
 TimeStamp = /54DA1745;
@@ -39,7 +39,7 @@ BeginCmp
 TimeStamp = /54D9B747;
 Reference = C5;
 ValeurCmp = 20uF;
-IdModule  = ;
+IdModule  = Capacitors_ThroughHole:Capacitor5x6RM2.5;
 EndCmp
 
 BeginCmp
@@ -53,14 +53,14 @@ BeginCmp
 TimeStamp = /54DA1918;
 Reference = D2;
 ValeurCmp = DIODE;
-IdModule  = ;
+IdModule  = smd_diode:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D9CE28;
 Reference = D3;
 ValeurCmp = 1N4148;
-IdModule  = ;
+IdModule  = smd_diode:SOD-123;
 EndCmp
 
 BeginCmp
